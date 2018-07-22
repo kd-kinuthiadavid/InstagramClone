@@ -32,6 +32,11 @@ class Image(models.Model):
     def __str__(self):
         return self.image_name
 
+    @classmethod
+    def get_all(cls):
+        images = cls.objects.all()
+        return images
+
 
 class Profile(models.Model):
     profile_photo = models.ImageField(upload_to='profile_pictures/')
@@ -52,6 +57,11 @@ class Comment(models.Model):
 
     def __str__(self):
         return self.content
+
+    @classmethod
+    def get_comments(cls):
+        comments = cls.objects.all()
+        return comments
 
 class Likes(models.Model):
     likes = models.IntegerField()
