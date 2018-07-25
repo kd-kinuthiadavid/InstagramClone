@@ -1,0 +1,29 @@
+{%extends 'base.html'%}
+{% load static %}
+{% block content %}
+{{ block.super}}
+<div class="container-fluid">
+    {% for profile in profiles %}
+    <div class="row">
+    <div class="col-md-4">
+        <div class="row">
+            <div class="column">
+                <div class="card">
+                    <img class="img-responsive rounded explore_profiles_image" src="{% static 'photos/photography3.jpg' %}" alt="profile_photo">
+                    <div class="container">
+                        <h3>@{{profile.user.username}}</h3>
+                        <p class="title">{{profile.status}}</p>
+                        <button type="button" class="btn btn-outline-primary btn-lg explore_button">Follow</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% empty %}
+    <div class="row">
+    <h2 class="text-center"> No Profile</h2>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
