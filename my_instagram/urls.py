@@ -9,6 +9,7 @@ urlpatterns=[
     url(r'^what_profile/(?P<profile_id>\d+)', views.my_profile, name='profile'),
     url(r'^explore_more/', views.explore, name='my_explore'),
     url(r'^new/image$', views.new_image, name='new-image'),
+    url(r'^new/profile$', views.new_profile, name='new-profile'),
 
 ]
 if settings.DEBUG:
