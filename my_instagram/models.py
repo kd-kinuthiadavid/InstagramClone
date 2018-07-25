@@ -24,8 +24,8 @@ class Image(models.Model):
     image = models.ImageField(upload_to='images/')
     image_name = models.CharField(max_length=30, blank=True)
     image_caption = models.TextField(max_length=100, blank=True)
-    user = models.ForeignKey(User, related_name="posted_by", on_delete=models.CASCADE)
-    liker = models.ForeignKey(User, related_name='liked_by', on_delete=models.CASCADE)
+    user = models.ForeignKey(User, related_name="posted_by", on_delete=models.CASCADE, null=True)
+    liker = models.ForeignKey(User, related_name='liked_by', on_delete=models.CASCADE, null=True)
     post_date = models.DateTimeField(auto_now=True)
 
 
@@ -50,6 +50,11 @@ class Profile(models.Model):
     def __str__(self):
         return self.user.username
 
+    @classmethod
+    def get_profiles(cls):
+        profiles = cls.objects.all()
+        return profiles
+
 class Comment(models.Model):
     content = models.TextField(max_length=150)
     user = models.ForeignKey(User, related_name='commented_by', on_delete=models.CASCADE)
@@ -65,7 +70,12 @@ class Comment(models.Model):
 
 class Likes(models.Model):
     likes = models.IntegerField()
-    image = models.ForeignKey(Image, related_name='likes_for', on_delete=models.CASCADE)
+    image = models.ForeignKey(Image, related_name='likes_for', on_delete=models.CASCADE, null=True)
+    user = models.ForeignKey(User, related_name='who_is_liking', on_delete=models.CASCADE, null=True)
+
+
 
     def __str__(self):
-        return self.likes
+        return str(self.likes)
+
+
