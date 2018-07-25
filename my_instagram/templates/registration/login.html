@@ -24,7 +24,7 @@
               <input type="submit" class="btn btn-primary btn-sm" value="Login">
             </div>
                 {% if user.is_authenticated %}
-            <input type="hidden" name="next" value="{% url 'profile' profile_id=user.id%}">
+            <input type="hidden" name="next" value="/">
               {% endif %}
 
           </form>
