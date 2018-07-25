@@ -2,7 +2,7 @@ from django.contrib.auth.decorators import login_required
 from django.shortcuts import render
 import datetime as dt
 from .models import Image, Comment, Profile
-from .forms import NewImageForm
+from .forms import NewImageForm, NewProfileForm
 
 
 # Create your views here.
@@ -16,13 +16,13 @@ def all_images(request):
     date = dt.date.today()
     images = Image.get_all()
     comments = Comment.get_comments()
-    return render(request, 'index.html', {"date": date, "images": images, "comments": comments})
+    return render(request, 'index.html', locals())
 
 
 @login_required(login_url='/accounts/login/')
 def my_profile(request,profile_id):
     date = dt.date.today()
-    profiles = Profile.objects.filter(id = profile_id)
+    profile = Profile.objects.filter(user_id = profile_id).first()
     return render(request, 'profile.html', locals())
 
 def explore(request):
@@ -41,5 +41,19 @@ def new_image(request):
             image.save()
     else:
         form = NewImageForm()
-    return render(request, 'new_image.html', {"form": form })
+    return render(request, 'new_image.html', {"form": form})
+
+
+def new_profile(request):
+    current_user = request.user
+    if request.method == 'POST':
+        form = NewProfileForm(request.POST, request.FILES)
+        if form.is_valid():
+            profile = form.save(commit=False)
+            profile.user = current_user
+            profile.save()
+    else:
+        form = NewProfileForm()
+    return render(request, 'new_profile.html', {"form": form})
+
 
