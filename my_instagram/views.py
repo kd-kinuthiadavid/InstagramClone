@@ -22,7 +22,8 @@ def all_images(request):
 @login_required(login_url='/accounts/login/')
 def my_profile(request,profile_id):
     date = dt.date.today()
-    profile = Profile.objects.filter(user_id = profile_id).first()
+    profile = Profile.objects.filter(user_id=profile_id).first()
+    images = Image.objects.filter(user_id=request.user.id)
     return render(request, 'profile.html', locals())
 
 def explore(request):
