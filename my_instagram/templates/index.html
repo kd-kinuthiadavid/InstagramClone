@@ -5,10 +5,10 @@
 <div class="container-fluid">
     {% for image_item in images %}
     <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-1">
 
     </div>
-    <div class="col-md-8">
+    <div class="col-md-6">
       <div class="card">
         <img class="img-responsive" src="{{image_item.image.url}}" alt="image" data-toggle="modal" data-target="#{{image_item.id}}">
         <div class="card-body">
@@ -20,14 +20,24 @@
             <br>
             <small class="card_text small-date">{{image_item.post_date}}</small>
             <br>
-            <small class="card_text small-date">{{image_item.user}}</small>
+            <a href="{% url 'single_profile' id=image_item.user.id%}"><small class="card_text small-date">{{image_item.user.username}}</small></a>
             <br>
-            <small class="card_text small-date">{{image_item.liker}}</small>
+            <a href="#"><img class="like-icon" src="{% static 'icons/red_heart.png' %}" alt="picture"></a>
+
+            <a href="{% url 'comment' image_id=image_item.id %}"><img class="comment-icon" src="{% static 'icons/comment_icon.png' %}" alt="picture"></a>
 
         </div>
       </div>
     </div>
-    <div class="col-md-2">
+    <div class="col-md-5 " id="story_section">
+        <div class="container-fluid saba">
+            {% for story in stories %}
+            <div class="container-fluid">
+                <img class="story_img" src="{{ story.profile_photo.url}}" alt="picture">
+                <small><span><strong>{{ story.status }}</strong></span></small>
+            </div>
+            {% endfor %}
+        </div>
 
     </div>
     {% empty %}
@@ -57,7 +67,7 @@
           <br>
           <p><span class="modal-span">Caption:</span> <br> {{image_item.image_caption}}</p>
           <br>
-          <p><span class="modal-span">Author:</span> <br> {{image_item.user}}</p>
+            <a href="{% url 'single_profile' id=image_item.user.id%}"><p><span class="modal-span">Author:</span> <br> {{image_item.user}}</p></a>
           <br>
           <p><span class="modal-span">Liked By:</span> <br> {{image_item.liker}}</p>
           <br>
@@ -67,10 +77,20 @@
           <small><span class="modal-span">Comments:</span> {{comment.content}}</small>
           {% endfor %}
         </div>
-        <div class="modal-footer">
-          <input class="form-control" type="text" value="{{image_item.image_url}}" id="link">
-          <a onclick="myFunction()"><button type="button"  class="btn btn-primary">Copy Link</button></a>
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <div class=" container-fluid modal-footer">
+            <div class="container-fluid">
+                {% for comment in comments %}
+                    {% if comment %}
+                <small href="{% url 'comment_per_image' id=comment.id %}"><span><strong>@{{comment.user.username}}</strong></span></small>
+                    <small href="{% url 'comment_per_image' id=comment.id %}">{{ comment.content }}</small>
+                    {% endif %}
+                {% endfor %}
+            </div>
+
+            <hr>
+            <div class="container-fluid">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
         </div>
       </div>
     </div>
