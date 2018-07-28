@@ -15,6 +15,7 @@ urlpatterns=[
     url(r'single_profile/(?P<id>\d+)', views.single_profile, name='single_profile'),
     url(r'comment/(?P<image_id>\d+)', views.comment, name='comment'),
     url(r'comment_per-image/(?P<id>\d+)', views.comment_per_image, name='comment_per_image'),
+    url(r'^search/', views.search_results, name='search_results'),
 
 ]
 if settings.DEBUG:
