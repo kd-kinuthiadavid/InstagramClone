@@ -17,25 +17,6 @@ import datetime as dt
 #     post_date = models.DateTimeField(auto_now=True)
 #     location = models.ForeignKey(Location)
 
-class Image(models.Model):
-    '''
-    Image model
-    '''
-    image = models.ImageField(upload_to='images/')
-    image_name = models.CharField(max_length=30, blank=True)
-    image_caption = models.TextField(max_length=100, blank=True)
-    user = models.ForeignKey(User, related_name="posted_by", on_delete=models.CASCADE, null=True)
-    liker = models.ForeignKey(User, related_name='liked_by', on_delete=models.CASCADE, null=True)
-    post_date = models.DateTimeField(auto_now=True)
-
-
-    def __str__(self):
-        return self.image_name
-
-    @classmethod
-    def get_all(cls):
-        images = cls.objects.all()
-        return images
 
 
 class Profile(models.Model):
@@ -55,10 +36,33 @@ class Profile(models.Model):
         profiles = cls.objects.all()
         return profiles
 
+
+class Image(models.Model):
+    '''
+    Image model
+    '''
+    image = models.ImageField(upload_to='images/')
+    image_name = models.CharField(max_length=30, blank=True)
+    image_caption = models.TextField(max_length=100, blank=True)
+    user = models.ForeignKey(User, related_name="posted_by", on_delete=models.CASCADE, null=True)
+    profile = models.ForeignKey(Profile, on_delete=models.CASCADE, null=True)
+    liker = models.ForeignKey(User, related_name='liked_by', on_delete=models.CASCADE, null=True)
+    post_date = models.DateTimeField(auto_now=True)
+
+
+    def __str__(self):
+        return self.image_name
+
+    @classmethod
+    def get_all(cls):
+        images = cls.objects.all()
+        return images
+
+
 class Comment(models.Model):
     content = models.TextField(max_length=150)
-    user = models.ForeignKey(User, related_name='commented_by', on_delete=models.CASCADE)
-    image = models.ForeignKey(Image, related_name='comment_for', on_delete=models.CASCADE)
+    user = models.ForeignKey(User, related_name='commented_by', on_delete=models.CASCADE, null=True)
+    image = models.ForeignKey(Image, related_name='comment_for', on_delete=models.CASCADE, null=True)
 
     def __str__(self):
         return self.content
