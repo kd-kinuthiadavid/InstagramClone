@@ -1,5 +1,6 @@
 {%extends 'base.html'%}
 {% load static %}
+{% load friendshiptags %}
 {% block content %}
 {{ block.super}}
 <div class="container-fluid">
@@ -9,12 +10,11 @@
         <div class="row">
             <div class="column">
                 <div class="card">
-                    <img class="img-responsive rounded explore_profiles_image" src="{% static 'photos/photography3.jpg' %}" alt="profile_photo">
+                    <img class="img-responsive rounded explore_profiles_image" src="{{profile.profile_photo.url}}" alt="profile_photo">
                     <div class="container">
                         <h3>@{{profile.user.username}}</h3>
                         <p class="title">{{profile.status}}</p>
                         <button type="button" class="btn btn-outline-primary btn-lg explore_button">Follow</button>
-
                     </div>
                 </div>
             </div>
