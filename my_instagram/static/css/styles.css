@@ -112,3 +112,12 @@ saba::-webkit-scrollbar-thumb {
 saba::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
+.other-cards{
+    width: 80%;
+    margin-left: 135px;
+
+}
+
+#signup{
+}
