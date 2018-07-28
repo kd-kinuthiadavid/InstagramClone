@@ -16,12 +16,22 @@
 
 </head>
 <body>
-    <form  action="{%url 'new-image'%}" method="post" enctype="multipart/form-data">
-    {%csrf_token%}
 
-    {% bootstrap_form form%}
-    <input type="submit" class="btn btn-success btn-lg" value="Post">
-  </form>
+
+   <div class="card other-cards">
+      <div class="card-header">
+        Post
+      </div>
+      <div class="card-body">
+         <form  action="{%url 'new-image'%}" method="post" enctype="multipart/form-data">
+            {%csrf_token%}
+
+            {% bootstrap_form form%}
+            <input type="submit" class="btn btn-success btn-lg" value="Post">
+          </form>
+      </div>
+    </div>
+
 
    {% block scripts %}
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
