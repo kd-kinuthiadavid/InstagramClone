@@ -27,6 +27,10 @@ See deployment for notes on how to deploy the project on a live system.
 You need the following thongs to install this software:
 * You don't need to install anything as this is a web application, just follow [this link](https://kd-third-gallery.herokuapp.com/) to get run the application.
 
+### User Stories/Journey
+
+* [User Stories](specs.md)
+
 ### Installing
 
 The following are a step by step series of examples that tell you how to get a development env running:

@@ -26,7 +26,10 @@
 
             <div class="form-group">
               <input type="submit" class="btn btn-primary btn-sm" value="Login">
+              <br>
+              <small>Don't have an account?<a href="/accounts/register">Sign up</a></small>
             </div>
+
                 {% if user.is_authenticated %}
             <input type="hidden" name="next" value="/">
               {% endif %}
