@@ -18,7 +18,7 @@ def welcome(request):
     title = 'Welcome'
     return render(request, 'welcome.html', {'title': title})
 
-
+@login_required(login_url='/accounts/login/')
 def all_images(request):
     date = dt.date.today()
     images = Image.get_all()
@@ -43,6 +43,7 @@ def all_profiles(request):
 
 
     return render(request, 'find_friends.html', locals())
+
 
 def single_profile(request, id):
     profiles = Profile.objects.get(id=id)
@@ -154,5 +155,19 @@ def comment(request,image_id):
 def comment_per_image(request, id ):
     comments = Comment.objects.get(id=id)
     return render(request, 'index.html', locals())
+
+
+
+def search_results(request):
+    if 'instagram' in request.GET and request.GET["instagram"]:
+        search_term = request.GET.get("instagram")
+        searched_instagrams= Image.search_by_image_caption(search_term)
+        message = f"{search_term}"
+
+        return render(request, 'search.html', {"message": message, "images": searched_instagrams})
+
+    else:
+        message = "You haven't searched for any term"
+        return render(request, 'search.html', {"message": message})
 
 
