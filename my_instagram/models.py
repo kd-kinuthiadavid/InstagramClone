@@ -36,6 +36,21 @@ class Profile(models.Model):
         profiles = cls.objects.all()
         return profiles
 
+    def save_profile(self):
+        self.save()
+
+    def delete_profile(self):
+        self.delete()
+
+    def update_profile(self):
+        self.update()
+
+    @classmethod
+    def find_profile(cls, id):
+        profile = cls.objects.get(id=id)
+        return profile
+
+
 
 class Image(models.Model):
     '''
@@ -54,9 +69,28 @@ class Image(models.Model):
         return self.image_name
 
     @classmethod
+    def search_by_image_caption(cls, search_term):
+        images = cls.objects.filter(image_caption__icontains=search_term)
+        return images
+
+    @classmethod
     def get_all(cls):
         images = cls.objects.all()
         return images
+
+    def save_image(self):
+        self.save()
+
+    def delete_image(self):
+        self.delete()
+
+    def update_caption(self):
+        self.image_caption.update()
+
+    @classmethod
+    def get_image_by_id(cls, id):
+        image = cls.object.get(id=id)
+        return image
 
 
 class Comment(models.Model):
