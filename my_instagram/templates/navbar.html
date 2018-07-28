@@ -16,20 +16,18 @@
     </ul>
     <ul class="navbar-nav ml-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="{% url 'my_explore' %}"><img class="explore-img" src="{% static 'photos/explore.png' %}"></a>
+        <a class="nav-link" href="{% url 'my_explore' %}"><img class="explore-img" src="{% static 'icons/explore-tool.png' %}"></a>
       </li>
       <li class="nav-item">
           {% if user.is_authenticated %}
-        <a class="nav-link disabled" href="{% url 'profile' profile_id=user.id%}"><img class="profile-img" src="{% static 'photos/profile.png' %}"></a>
+        <a class="nav-link disabled" href="{% url 'profile' profile_id=user.id%}"><img class="profile-img" src="{% static 'icons/profile_single.png' %}"></a>
       {% endif%}
       </li>
     </ul>
                     {% if user.is_authenticated %}
             <ul>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle btn btn-default" data-toggle="dropdown" role="button" aria-expanded="false">Account
-                          <span class="caret"></span>
-                      </a>
+                <a href="#" class="dropdown-toggle btn btn-default" data-toggle="dropdown" role="button" aria-expanded="false"><img class="user-icon" src="{% static 'icons/user_circle.png' %}"></a>
                 <ul class="dropdown-menu" role="menu">
                   <li>
                     <a href="{% url 'profile' profile_id=user.id%}">{{ user.username }}</a>
