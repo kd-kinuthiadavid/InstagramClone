@@ -18,14 +18,20 @@ activate virtual environment
   ```
 run the application
 
-```python3.6 manage.py runserver
+```
+python3.6 manage.py runserver
+
 ```
 See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
 You need the following thongs to install this software:
-* You don't need to install anything as this is a web application, just follow [this link](https://kd-third-gallery.herokuapp.com/) to get run the application.
+* You don't need to install anything as this is a web application, just follow [this link](https://kd-instagram.herokuapp.com/) to get run the application.
+
+### User Stories/Journey
+
+* [User Stories](specs.md)
 
 ### Installing
 
@@ -47,6 +53,7 @@ activate virtual environment
 run the application
 
 ```
+
 python3.6 manage.py runserver
 
 ```
@@ -55,7 +62,7 @@ See deployment for notes on how to deploy the  project on a live system.
 
 ## Deployment
 
-[Deploying this and other Django Apps to Heroku](https://gist.github.com/Benard18/01e28cfbd911f87c7df8ee33cbdaa593)
+For deploying this and other Django-apps:[Deploying Django Apps to Heroku](https://gist.github.com/Benard18/01e28cfbd911f87c7df8ee33cbdaa593)
 
 ## Built With
 
@@ -86,3 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to my TMs
 * Inspiration from [instagram](https://www.instagram.com/)
+* [Ben Karanja ](https://gist.github.com/Benard18/01e28cfbd911f87c7df8ee33cbdaa593) for Deployment

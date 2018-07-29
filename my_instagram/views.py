@@ -109,6 +109,8 @@ def new_image(request):
             image = form.save(commit=False)
             image.user = current_user
             image.save()
+            return redirect('welcome')
+
     else:
         form = NewImageForm()
     return render(request, 'new_image.html', {"form": form})
@@ -122,6 +124,7 @@ def new_profile(request):
             profile = form.save(commit=False)
             profile.user = current_user
             profile.save()
+            return redirect('welcome')
     else:
         form = NewProfileForm()
     return render(request, 'new_profile.html', {"form": form})
@@ -169,5 +172,3 @@ def search_results(request):
     else:
         message = "You haven't searched for any term"
         return render(request, 'search.html', {"message": message})
-
-
