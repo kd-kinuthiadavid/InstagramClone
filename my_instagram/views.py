@@ -118,6 +118,7 @@ def new_image(request):
 
 def new_profile(request):
     current_user = request.user
+
     if request.method == 'POST':
         form = NewProfileForm(request.POST, request.FILES)
         if form.is_valid():
