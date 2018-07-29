@@ -25,7 +25,7 @@ SECRET_KEY = config('DEBUG', default=False, cast=bool)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG', default=False, cast=bool)
 
-ALLOWED_HOSTS =['kd-instagram.herokuapp.com']
+ALLOWED_HOSTS =[ config('ALLOWED_HOSTS', cast=Csv())]
 
 
 # Application definition
