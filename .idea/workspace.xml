@@ -2,7 +2,806 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd7a609-7c54-497a-8382-77dc11156bc6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageColor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/liblber-2-d7edd0dc.4.so.2.10.7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/mbcharsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/GimpGradientFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/certifi/cacert.pem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/es/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/JpegPresets.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/Pillow-5.2.0.dist-info/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/requirements.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/hmac/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/followers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/WebPImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/friend/requests_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/specifiers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/sv/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/pt_BR/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/idna/intranges.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ca/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_cursor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/FitsStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libgssapi_krb5-174f8956.so.2.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/text.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/jisfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/friend_request_count.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/certifi/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-18.0.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/pep425tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/vcs/subversion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tz.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/liblzma-90de1f11.so.5.2.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/el/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/sv/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/req/req_install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/he/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/default/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/tr_TR/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/msgpack/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/webencodings/mklabels.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/dj_database_url-0.5.0.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/liblcms2-a6801db4.so.2.0.8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/Image.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/follow/followers_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/simple/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/python_decouple-3.1-py3.6.egg-info/installed-files.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/following.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/pl/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/templates/registration/activation_email_subject.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distro.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/block/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/jpcntx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_bootstrap4-0.0.6.egg-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_bootstrap4-0.0.6.egg-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-18.0.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/namespaces.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/progress/helpers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/eucjpprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku/__version__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_ipaddress.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/help.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_async.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/templatetags/friend_request_count.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs-3.1.1.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/api.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_types_extras.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageChops.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/retry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/test_models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ExifTags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_copy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/freeze.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/msvc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise-3.3.1.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_bootstrap4-0.0.6.egg-info/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/typing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/middleware.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_decouple-2.1-py3.6.egg-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/idna/idnadata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/__version__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_transaction.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/management/commands/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/status_codes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/MpegImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/download.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/enums.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/hr/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/media_types.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/features.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/langcyrillicmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImagePalette.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/certs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_friendship-1.8.0-py3.6.egg-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_async_keyword.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/_structures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageShow.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/markers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PngImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_imagingcms.cpython-36m-x86_64-linux-gnu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/friend/user_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/resources.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageOps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/GbrImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ContainerIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_bugX000.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/pool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/BufrStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/config.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/lockfile/linklockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/friend_rejected_count.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/download.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/dj_database_url-0.5.0.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/idna/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/TarIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/SunImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/GimpPaletteFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/da/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs/categories.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-18.0.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PdfParser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libcom_err-beb60336.so.2.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/cs/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/pytoml/core.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/FliImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_friendship-1.8.0-py3.6.egg-info/not-zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/ui.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/friend_requests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/codingstatemachine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/requirements.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/python_decouple-3.1-py3.6.egg-info/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PdfImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_decouple-2.1-py3.6.egg-info/not-zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/serialize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/locators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-18.0.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/test_hmac_workflow.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/langthaimodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/runserver_nostatic/management/commands/runserver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise-3.3.1.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_cancel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/webencodings/labels.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/python_decouple-3.1-py3.6.egg-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageTransform.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/gb2312prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/templatetags/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_registration-2.4.1.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/models/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/manifest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/database.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_psycopg2_dbapi20.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/escsm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/follow/following_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/it/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/templates/registration/activate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/validators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/sl/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/markers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PsdImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/configuration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/cli/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ru/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/IcnsImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/charsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/dj_database_url-0.5.0.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/GribStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/req/req_file.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/filepost.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/EpsImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libkeyutils-1-ff31573b.2.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/cs/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/outdated.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/zh_CN/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/scripts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/hooks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/uninstall.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/request.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/misc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/idna/core.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/XpmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/pytoml/writer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise-3.3.1.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/bin/confusable_homoglyphs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs/confusables.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageQt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/MpoImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/glibc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/Pillow-5.2.0.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/McIdasImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/blockers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libsepol-b4f5b513.so.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/locations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/block/blocking_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/filesystem.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/TiffImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/default/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/templates/bootstrap4/bootstrap4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templatetags/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/cp949prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageStat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/colorama/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/IcoImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/command/build_clib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/IptcImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui-64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libz-a147dcb0.so.1.2.3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli-64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/hr/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/resolve.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/t32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/_json.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/GifImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/templates/bootstrap4/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_imagingft.cpython-36m-x86_64-linux-gnu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/colorama/ansitowin32.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/friend/request.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/controller.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/bg/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/temp_dir.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/block/blocked_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/completion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/BlpImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/_ihatexml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/pytoml/parser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku-0.3.1.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/metadata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/psycopg1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_imagingmath.cpython-36m-x86_64-linux-gnu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/vcs/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/sr/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PcdImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/deprecation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/certifi/core.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/universaldetector.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/templatetags/friends.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageDraw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageMorph.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/cli/chardetect.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/simple/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_friendship-1.8.0-py3.6.egg-info/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/testconfig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/socks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PcfFontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-18.0.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/zh_TW/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/decouple.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/colorama/ansi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/idna/codec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pkg_resources/py31compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/is/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/req/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/hmac/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libldap_r-2-d6331e3d.4.so.2.10.7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/errorcodes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/fr/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/auth_urls_classes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/euctwfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_decouple-2.1-py3.6.egg-info/installed-files.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/langturkishmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_fast_executemany.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/dj_database_url-0.5.0.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/test_forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_decouple-2.1-py3.6.egg-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageCms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/model_activation/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/DdsImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_binary.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/idna/package_data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/progress/spinner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/block/blockers_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/cmdoptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/dep_util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/block/remove.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/templates/registration/registration_complete.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/he/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/operations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_lobject.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/progress/counter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libtiff-8a6d997d.so.5.3.0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/lockfile/symlinklockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/test_views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/wait.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/responders.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/vcs/mercurial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libwebp-8ccd29fd.so.7.0.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/block/remove.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/url.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_friendship-1.8.0-py3.6.egg-info/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/XVThumbImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/py33compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/_compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/_base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/configuration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/block/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libz-a147dcb0.so.1.2.3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/_collections.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/langhungarianmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/big5freq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/Pillow-5.2.0.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ar/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/blocking.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/six.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/follow/following_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/MicImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/zh_TW/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/langgreekmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/command/py36compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs/_version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/lint.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/chardistribution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/command/launcher manifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/queue.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PcxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs/confusables.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ja/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_webp.cpython-36m-x86_64-linux-gnu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/is/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/scantree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_types_basic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/baseparser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageWin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/XbmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/logging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/templatetags/followers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku/core.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/signals.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/encoding.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/poolmanager.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/default/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/response.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/FontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/dj_database_url-0.5.0.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PSDraw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/it/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_friendship-1.8.0-py3.6.egg-info/installed-files.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku-0.3.1.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/follow/remove.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/templates/bootstrap4/messages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/management/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/idna/uts46data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libpq-239f9ac8.so.5.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/status_codes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/_psycopg.cpython-36m-x86_64-linux-gnu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/py.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/runtests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/webencodings/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/misc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_bootstrap4-0.0.6.egg-info/not-zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/sr/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/django.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/command/dist_info.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_extras_dictcursor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/specifiers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/progress/bar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_friendship-1.8.0-py3.6.egg-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/user_actions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/hmac/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libpng16-8793a1b2.so.16.32.0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/_internal_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pkg_resources/_vendor/appdirs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli-32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/friend/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libselinux-cf8f9094.so.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/appdirs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/retrying.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PalmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_quote.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/_range.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/euctwprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libk5crypto-622ef25b.so.3.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/dj_database_url.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageFont.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/FpxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/auth_urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/response.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/follow/followers_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/dbapi20_tpc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-18.0.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs-3.1.1.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libsasl2-e96a0dbf.so.2.0.22" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/pt/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageFilter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/request.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise-3.3.1.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/storage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/connectionpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PixarImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_imaging.cpython-36m-x86_64-linux-gnu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/req/req_tracker.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs-3.1.1.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/hebrewprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/langhebrewmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/appdirs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/WalImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/renderers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/dj_database_url-0.5.0.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/BmpImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/templates/registration/registration_closed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/en/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_bootstrap4-0.0.6.egg-info/installed-files.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/templates/registration/activation_email.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/model_activation/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_registration-2.4.1.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/sjisprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/operations/freeze.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/check.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/friend_count.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/euckrprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/w64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/SgiImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/Jpeg2KImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/da/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libwebpmux-1c63fe99.so.3.0.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/build_meta.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageGrab.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/pl/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/FtexImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libfreetype-6ed94974.so.6.16.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/templatetags/following.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/__about__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/_inputstream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/test_model_workflow.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/lockfile/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/hash.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/CurImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libjpeg-3fe7dfc0.so.9.3.0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/charsetgroupprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/de/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/help.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/fields.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libssl-8bb9b3dd.so.1.0.2o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libopenjp2-e366d6b0.so.2.1.0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_registration-2.4.1.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/compress.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/show.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/sl/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/Pillow-5.2.0.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/connection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageSequence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/packages.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageMath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_replication.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/Hdf5StubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/friend/request.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/nb/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ca/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ja/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/w32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/progress/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/pt/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/string_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/big5prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/friend/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/webencodings/x_user_defined.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/extensions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/tr_TR/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/packaging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/certifi/__main__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/appengine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/nb/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise-3.3.1.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_sql.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku-0.3.1.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_registration-2.4.1.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/models/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/pytoml/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/_compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/structures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/__about__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImagePath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/static_file.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku-0.3.1.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PpmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/friend/user_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/fa/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/TgaImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/vcs/bazaar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/testutils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_registration-2.4.1.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/.libs/libwebpdemux-eba3dc32.so.2.0.4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/test_django_auth_integration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_green.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/_ipaddress.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libcrypto-6448f03c.so.1.0.2o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku-0.3.1.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/colorama/winterm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/lockfile/pidlockfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/BdfFontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku-0.3.1.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/south_migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_imagingmorph.cpython-36m-x86_64-linux-gnu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_registration-2.4.1.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/req/req_set.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/follow/remove.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/python_decouple-3.1-py3.6.egg-info/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_dates.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/dj_database_url-0.5.0.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/glibc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/JpegImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/ipaddress.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libkrb5support-d7ce89d4.so.0.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs-3.1.1.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/httpstatus_backport.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/WmfImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/templates/bootstrap4/field_help_text_and_errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-18.0.dist-info/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageEnhance.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/adapter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/templatetags/friend_requests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/gb2312freq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/operations/check.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/en/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/nl/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/OleFileIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/idna/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/de/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/Pillow-5.2.0.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/TiffTags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/block/blocking_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_tkinter_finder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/Pillow-5.2.0.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/migrations/0002_block.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/block/blockers_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/el/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_with.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PaletteFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_notify.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/colorama/initialise.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ar/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/nl/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/utf8prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/friend/requests_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/auth_urls_functions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/serializer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/Pillow-5.2.0.dist-info/zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_decouple-2.1-py3.6.egg-info/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/util/timeout.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageDraw2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/python_decouple-3.1-py3.6.egg-info/not-zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/commands/list.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/model_activation/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/dbapi20.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/management/commands/cleanupregistration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui-32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/msgpack/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/templates/bootstrap4/form_errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImtImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise-3.3.1.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/glob.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/python_decouple-3.1-py3.6.egg-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/runserver_nostatic/management/commands/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treebuilders/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/GdImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/sessions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/html5parser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/es/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageTk.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ko/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/templates/registration/registration_form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/runserver_nostatic/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/setuptools_build.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/follow/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/_imagingtk.cpython-36m-x86_64-linux-gnu.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/DcxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/wheel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/euckrfreq.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/templatetags/friends.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_bootstrap4-0.0.6.egg-info/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/pyparsing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/datrie.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/urllib3/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/msgpack/_version.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_decouple-2.1-py3.6.egg-info/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/sbcharsetprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/bootstrap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/pkg_resources/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/es_AR/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs-3.1.1.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/_tokenizer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ru/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/monkey.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/bg/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/req/req_uninstall.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/components.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/templates/registration/activation_complete.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/ko/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/south_migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/build_env.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/MspImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/latin1prober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs/categories.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/.libs/libkrb5-fb0d2caa.so.3.3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/basecommand.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/adapters.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/runserver_nostatic/management/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_bug_gc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/backends/simple/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/mbcssm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/tests/test_errcodes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/operations/prepare.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/index.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/zh_CN/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/vcs/git.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/auth.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/tests/templates/friendship/follow/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/requests/cookies.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templates/friendship/user_actions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_registration-2.4.1.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/migrations/0003_block_unique_together.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/chardet/escprober.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/bootstrap4/templatetags/bootstrap4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/extras.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise-3.3.1.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs/cli.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/pt_BR/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/confusable_homoglyphs-3.1.1.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/psycopg2/sql.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/py36compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/_structures.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/distlib/t64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/django_heroku-0.3.1.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/templatetags/friendshiptags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/fa/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/ImageMode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/fr/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_internal/utils/hashes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/_vendor/packaging/markers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/pkg_resources/py31compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/whitenoise/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/tests/test_simple_workflow.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/colorama/win32.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/PyAccess.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/pep425tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/PIL/SpiderImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/msgpack/fallback.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/registration/locale/es_AR/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip/_vendor/packaging/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/friendship/signals.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/INSTAGRAM.iml" afterPath="$PROJECT_DIR$/.idea/INSTAGRAM.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_instagram/views.py" afterPath="$PROJECT_DIR$/my_instagram/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +819,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_instagram/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <state relative-caret-position="2844">
+              <caret line="168" column="32" lean-forward="false" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -30,7 +829,7 @@
       <file leaf-file-name="registration_form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_instagram/templates/registration/registration_form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="504">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
@@ -40,7 +839,7 @@
       <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_instagram/templates/navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="1008">
               <caret line="56" column="48" lean-forward="false" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
               <folding />
             </state>
@@ -50,7 +849,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_instagram/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="1620">
               <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding />
             </state>
@@ -60,7 +859,7 @@
       <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_instagram/templates/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="1440">
               <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding />
             </state>
@@ -71,7 +870,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,35 +878,41 @@
       </file>
       <file leaf-file-name="specs.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/specs.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-480">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="252">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mwaks-django" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mwaks-django" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/MWAKS/mwaks-django">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -152,13 +957,13 @@
         <option value="$PROJECT_DIR$/my_instagram/templates/registration/login.html" />
         <option value="$PROJECT_DIR$/my_instagram/templates/navbar.html" />
         <option value="$PROJECT_DIR$/my_instagram/templates/registration/registration_form.html" />
-        <option value="$PROJECT_DIR$/my_instagram/views.py" />
         <option value="$PROJECT_DIR$/my_instagram/templates/index.html" />
         <option value="$PROJECT_DIR$/my_instagram/templates/search.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/specs.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/my_instagram/views.py" />
       </list>
     </option>
   </component>
@@ -185,6 +990,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -268,11 +1074,11 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MWAKS/mwaks-django" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -439,7 +1245,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24944155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -447,7 +1253,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4887097" sideWeight="0.4973939" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4879227" sideWeight="0.4973939" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -491,7 +1297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="62" column="36" lean-forward="true" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,9 +1333,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1206">
           <caret line="67" column="20" lean-forward="false" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
-          <folding>
-            <element signature="e#2396#2403#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -559,9 +1362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -569,9 +1369,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#57#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +1455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +1462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-306">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +1469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,10 +1476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <marker date="1532791814702" expanded="true" signature="107:205" ph="..." />
-            <marker date="1532791814702" expanded="true" signature="123:205" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,7 +1483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="32" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +1490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +1497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +1504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +1511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +1518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="89" column="16" lean-forward="false" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,9 +1525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,7 +1532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +1539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,7 +1546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,9 +1553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#226#235#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,9 +1560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#311#320#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,7 +1567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +1574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,13 +1581,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_instagram/templates/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="1008">
           <caret line="56" column="48" lean-forward="false" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
           <folding />
         </state>
@@ -824,23 +1594,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_instagram/templates/registration/registration_form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
+        <state relative-caret-position="504">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_instagram/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_instagram/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="1620">
           <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding />
         </state>
@@ -848,7 +1610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_instagram/templates/search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="1440">
           <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
@@ -857,31 +1619,57 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specs.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="864">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_instagram/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2844">
+          <caret line="168" column="32" lean-forward="false" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
           <folding />
         </state>
       </provider>
