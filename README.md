@@ -25,7 +25,7 @@ See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
 
 You need the following thongs to install this software:
-* You don't need to install anything as this is a web application, just follow [this link](https://kd-instagram.herokuapp.com/) to get run the application.
+* You don't need to install anything as this is a web application, just follow [this link](https://my-kd-instagram.herokuapp.com/) to get run the application.
 
 ### User Stories/Journey
 
@@ -48,6 +48,14 @@ activate virtual environment
   source virtual/bin/activate
 
   ```
+
+install dependencies
+
+```
+pip3.6 install -r requirements.txt
+
+```
+
 run the application
 
 ```

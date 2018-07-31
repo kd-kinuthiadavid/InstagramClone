@@ -1,2 +1,5 @@
 *.pyc
 /virtual
+/.env
+/ig
+ig/
