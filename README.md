@@ -10,17 +10,30 @@ git clone https://github.com/kd-kinuthiadavid/InstagramClone.git
 ```
 ```
 cd InstagramClone/
+
 ```
 activate virtual environment
 
   ```
   source virtual/bin/activate
+
   ```
+
+install dependencies
+
+```
+pip3.6 install -r requirements.txt
+
+```
+
 run the application
 
-```python3.6 manage.py runserver
 ```
-See deployment for notes on how to deploy the project on a live system.
+python3.6 manage.py runserver
+
+```
+See deployment for notes on how to deploy the  project on a live system.
+.
 
 ### Prerequisites
 
